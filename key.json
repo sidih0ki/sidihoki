@@ -37,13 +37,6 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
-    },
-    "wahyu": {
-      "hwid": "RESET",
-      "expireDate": "2026-05-29",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "New"
     }
   }
 }
